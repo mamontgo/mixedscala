@@ -1,5 +1,7 @@
 package com.monty.scala
-
+/**
+ * Utility scala functions for demonstration purposes
+ */
 import com.monty.java.PersonBean;
 import scala.collection.JavaConverters._
 
